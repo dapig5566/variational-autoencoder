@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee3fee69-6e0c-4a71-b8bf-ff8208da50f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X7DyHD60tpSPYS6eyMfMj3zcXK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="D:/THOUSANDSTUDIO/DeepWork/Meta-Learning/age" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HASEE\PycharmProjects\Variational_Autoencoder" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.maze">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Variational_Autoencoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://liu@10.201.95.250:22/home/liu/.venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="marl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Variational_Autoencoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/marl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="maze" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Variational_Autoencoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maze.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.maze" />
+      <item itemvalue="Python.marl" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.maze" />
+        <item itemvalue="Python.marl" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee3fee69-6e0c-4a71-b8bf-ff8208da50f9" name="Default Changelist" comment="" />
+      <created>1580388491434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580388491434</updated>
+      <workItem from="1580388507808" duration="26129000" />
+      <workItem from="1580522752335" duration="63132000" />
+      <workItem from="1581740043527" duration="10633000" />
+      <workItem from="1582120449923" duration="54000" />
+      <workItem from="1582123407409" duration="810000" />
+      <workItem from="1582199918059" duration="43539000" />
+      <workItem from="1582686996573" duration="3989000" />
+      <workItem from="1582801075617" duration="78000" />
+      <workItem from="1586463085470" duration="3424000" />
+      <workItem from="1586756414712" duration="25000" />
+      <workItem from="1587288895380" duration="796000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="322" y="91" key="#Deployment" timestamp="1580532883460">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="322" y="91" key="#Deployment/0.0.1458.864@0.0.1458.864" timestamp="1580532883460" />
+    <state x="322" y="91" key="#Options" timestamp="1580525363658">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="322" y="91" key="#Options/0.0.1458.864@0.0.1458.864" timestamp="1580525363658" />
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581746279446">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1458.864@0.0.1458.864" timestamp="1581746279446" />
+    <state x="482" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581740215532">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="482" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1458.864@0.0.1458.864" timestamp="1581740215532" />
+    <state x="510" y="187" key="FileChooserDialogImpl" timestamp="1586756438269">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="510" y="187" key="FileChooserDialogImpl/0.0.1458.864@0.0.1458.864" timestamp="1586756438269" />
+    <state width="1415" height="205" key="GridCell.Tab.0.bottom" timestamp="1582472838239">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="205" key="GridCell.Tab.0.bottom/0.0.1458.864@0.0.1458.864" timestamp="1582472838239" />
+    <state width="1415" height="205" key="GridCell.Tab.0.center" timestamp="1582472838239">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="205" key="GridCell.Tab.0.center/0.0.1458.864@0.0.1458.864" timestamp="1582472838239" />
+    <state width="1415" height="205" key="GridCell.Tab.0.left" timestamp="1582472838239">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="205" key="GridCell.Tab.0.left/0.0.1458.864@0.0.1458.864" timestamp="1582472838239" />
+    <state width="1415" height="205" key="GridCell.Tab.0.right" timestamp="1582472838239">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="205" key="GridCell.Tab.0.right/0.0.1458.864@0.0.1458.864" timestamp="1582472838239" />
+    <state width="1415" height="277" key="GridCell.Tab.1.bottom" timestamp="1580542966794">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="277" key="GridCell.Tab.1.bottom/0.0.1458.864@0.0.1458.864" timestamp="1580542966794" />
+    <state width="1415" height="277" key="GridCell.Tab.1.center" timestamp="1580542966794">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="277" key="GridCell.Tab.1.center/0.0.1458.864@0.0.1458.864" timestamp="1580542966794" />
+    <state width="1415" height="277" key="GridCell.Tab.1.left" timestamp="1580542966794">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="277" key="GridCell.Tab.1.left/0.0.1458.864@0.0.1458.864" timestamp="1580542966794" />
+    <state width="1415" height="277" key="GridCell.Tab.1.right" timestamp="1580542966794">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="277" key="GridCell.Tab.1.right/0.0.1458.864@0.0.1458.864" timestamp="1580542966794" />
+    <state x="462" y="47" key="SettingsEditor" timestamp="1581746373029">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="462" y="47" key="SettingsEditor/0.0.1458.864@0.0.1458.864" timestamp="1581746373029" />
+    <state x="471" y="162" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1580460906852">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="471" y="162" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1458.864@0.0.1458.864" timestamp="1580460906852" />
+    <state x="608" y="163" key="ftp.server.browser" timestamp="1580531907648">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="608" y="163" key="ftp.server.browser/0.0.1458.864@0.0.1458.864" timestamp="1580531907648" />
+    <state x="392" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1581746000436">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="392" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1458.864@0.0.1458.864" timestamp="1581746000436" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="z.shape" language="Python" />
+        <watch expression="dec_param.shape" language="Python" />
+        <watch expression="epi.shape" language="Python" />
+        <watch expression="scale.shape" language="Python" />
+        <watch expression="loc.shape" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Variational_Autoencoder$main.coverage" NAME="main Coverage Results" MODIFIED="1580720467850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Variational_Autoencoder$marl.coverage" NAME="marl Coverage Results" MODIFIED="1582123553607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Variational_Autoencoder$maze.coverage" NAME="maze Coverage Results" MODIFIED="1582472702780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
